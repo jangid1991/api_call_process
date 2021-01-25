@@ -1,0 +1,437 @@
+INFO:root:2021-01-24T20:44:01.906801:Data read started
+INFO:root:2021-01-24T20:44:01.906801:Data Loaded with Header Information
+INFO:root:2021-01-24T20:44:01.906801:Multi Thread Processing Started
+INFO:root:2021-01-24 20:44:02.041398:Separate of data based on County Albany Started
+INFO:root:2021-01-24 20:44:02.041398:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.044719:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.044719:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.044719:source_cnt:329
+INFO:root:2021-01-24 20:44:02.044719:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.044719:Balancing Successful
+INFO:root:2021-01-24 20:44:02.108993:Separate of data based on County Allegany Started
+INFO:root:2021-01-24 20:44:02.108993:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.108993:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.108993:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.108993:source_cnt:329
+INFO:root:2021-01-24 20:44:02.108993:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.108993:Balancing Successful
+INFO:root:2021-01-24 20:44:02.137532:Separate of data based on County Bronx Started
+INFO:root:2021-01-24 20:44:02.137532:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.137532:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.137532:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.137532:source_cnt:329
+INFO:root:2021-01-24 20:44:02.137532:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.137532:Balancing Successful
+INFO:root:2021-01-24 20:44:02.172278:Separate of data based on County Broome Started
+INFO:root:2021-01-24 20:44:02.172278:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.172278:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.172278:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.172278:source_cnt:329
+INFO:root:2021-01-24 20:44:02.172278:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.172278:Balancing Successful
+INFO:root:2021-01-24 20:44:02.200730:Separate of data based on County Cattaraugus Started
+INFO:root:2021-01-24 20:44:02.200730:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.200730:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.200730:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.200730:source_cnt:329
+INFO:root:2021-01-24 20:44:02.200730:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.200730:Balancing Successful
+INFO:root:2021-01-24 20:44:02.236845:Separate of data based on County Cayuga Started
+INFO:root:2021-01-24 20:44:02.236845:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.240770:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.240770:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.240770:source_cnt:329
+INFO:root:2021-01-24 20:44:02.240770:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.240770:Balancing Successful
+INFO:root:2021-01-24 20:44:02.275577:Separate of data based on County Chautauqua Started
+INFO:root:2021-01-24 20:44:02.275577:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.279621:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.279621:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.279621:source_cnt:329
+INFO:root:2021-01-24 20:44:02.279621:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.279621:Balancing Successful
+INFO:root:2021-01-24 20:44:02.309706:Separate of data based on County Chemung Started
+INFO:root:2021-01-24 20:44:02.309706:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.309706:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.309706:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.309706:source_cnt:329
+INFO:root:2021-01-24 20:44:02.309706:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.309706:Balancing Successful
+INFO:root:2021-01-24 20:44:02.341690:Separate of data based on County Chenango Started
+INFO:root:2021-01-24 20:44:02.341690:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.341690:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.341690:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.341690:source_cnt:329
+INFO:root:2021-01-24 20:44:02.341690:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.341690:Balancing Successful
+INFO:root:2021-01-24 20:44:02.370785:Separate of data based on County Clinton Started
+INFO:root:2021-01-24 20:44:02.370785:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.374789:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.374789:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.374789:source_cnt:329
+INFO:root:2021-01-24 20:44:02.374789:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.374789:Balancing Successful
+INFO:root:2021-01-24 20:44:02.401947:Separate of data based on County Columbia Started
+INFO:root:2021-01-24 20:44:02.401947:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.405857:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.405857:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.405857:source_cnt:329
+INFO:root:2021-01-24 20:44:02.405857:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.405857:Balancing Successful
+INFO:root:2021-01-24 20:44:02.434668:Separate of data based on County Cortland Started
+INFO:root:2021-01-24 20:44:02.434668:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.434668:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.434668:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.434668:source_cnt:329
+INFO:root:2021-01-24 20:44:02.434668:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.434668:Balancing Successful
+INFO:root:2021-01-24 20:44:02.463827:Separate of data based on County Delaware Started
+INFO:root:2021-01-24 20:44:02.463827:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.467810:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.467810:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.467810:source_cnt:329
+INFO:root:2021-01-24 20:44:02.467810:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.467810:Balancing Successful
+INFO:root:2021-01-24 20:44:02.494948:Separate of data based on County Dutchess Started
+INFO:root:2021-01-24 20:44:02.494948:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.499138:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.499138:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.499138:source_cnt:329
+INFO:root:2021-01-24 20:44:02.499138:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.499138:Balancing Successful
+INFO:root:2021-01-24 20:44:02.527838:Separate of data based on County Erie Started
+INFO:root:2021-01-24 20:44:02.527838:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.531834:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.531834:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.531834:source_cnt:329
+INFO:root:2021-01-24 20:44:02.531834:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.531834:Balancing Successful
+INFO:root:2021-01-24 20:44:02.560863:Separate of data based on County Essex Started
+INFO:root:2021-01-24 20:44:02.560863:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.561361:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.561361:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.561361:source_cnt:329
+INFO:root:2021-01-24 20:44:02.561361:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.561361:Balancing Successful
+INFO:root:2021-01-24 20:44:02.586852:Separate of data based on County Franklin Started
+INFO:root:2021-01-24 20:44:02.586852:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.590836:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.590836:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.590836:source_cnt:329
+INFO:root:2021-01-24 20:44:02.590836:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.590836:Balancing Successful
+INFO:root:2021-01-24 20:44:02.622587:Separate of data based on County Fulton Started
+INFO:root:2021-01-24 20:44:02.622587:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.622587:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.622587:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.622587:source_cnt:329
+INFO:root:2021-01-24 20:44:02.622587:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.622587:Balancing Successful
+INFO:root:2021-01-24 20:44:02.651478:Separate of data based on County Genesee Started
+INFO:root:2021-01-24 20:44:02.651478:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.651478:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.651478:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.651478:source_cnt:329
+INFO:root:2021-01-24 20:44:02.651478:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.651478:Balancing Successful
+INFO:root:2021-01-24 20:44:02.680126:Separate of data based on County Greene Started
+INFO:root:2021-01-24 20:44:02.680126:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.684283:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.684283:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.684283:source_cnt:329
+INFO:root:2021-01-24 20:44:02.684283:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.684283:Balancing Successful
+INFO:root:2021-01-24 20:44:02.712453:Separate of data based on County Hamilton Started
+INFO:root:2021-01-24 20:44:02.712453:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.712453:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.712453:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.712453:source_cnt:329
+INFO:root:2021-01-24 20:44:02.712453:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.712453:Balancing Successful
+INFO:root:2021-01-24 20:44:02.741132:Separate of data based on County Herkimer Started
+INFO:root:2021-01-24 20:44:02.741132:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.741132:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.741132:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.741132:source_cnt:329
+INFO:root:2021-01-24 20:44:02.741132:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.741132:Balancing Successful
+INFO:root:2021-01-24 20:44:02.765996:Separate of data based on County Jefferson Started
+INFO:root:2021-01-24 20:44:02.765996:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.770001:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.770001:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.770001:source_cnt:329
+INFO:root:2021-01-24 20:44:02.770001:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.770001:Balancing Successful
+INFO:root:2021-01-24 20:44:02.797761:Separate of data based on County Kings Started
+INFO:root:2021-01-24 20:44:02.797761:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.797761:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.797761:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.797761:source_cnt:329
+INFO:root:2021-01-24 20:44:02.797761:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.797761:Balancing Successful
+INFO:root:2021-01-24 20:44:02.825458:Separate of data based on County Lewis Started
+INFO:root:2021-01-24 20:44:02.825458:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.825458:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.825458:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.825458:source_cnt:329
+INFO:root:2021-01-24 20:44:02.825458:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.825458:Balancing Successful
+INFO:root:2021-01-24 20:44:02.854207:Separate of data based on County Livingston Started
+INFO:root:2021-01-24 20:44:02.854207:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.858203:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.858203:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.858203:source_cnt:329
+INFO:root:2021-01-24 20:44:02.858203:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.858203:Balancing Successful
+INFO:root:2021-01-24 20:44:02.882600:Separate of data based on County Madison Started
+INFO:root:2021-01-24 20:44:02.882600:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.886775:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.886775:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.886775:source_cnt:329
+INFO:root:2021-01-24 20:44:02.886775:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.886775:Balancing Successful
+INFO:root:2021-01-24 20:44:02.911189:Separate of data based on County Monroe Started
+INFO:root:2021-01-24 20:44:02.911189:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.911189:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.911189:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.911189:source_cnt:329
+INFO:root:2021-01-24 20:44:02.911189:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.911189:Balancing Successful
+INFO:root:2021-01-24 20:44:02.939663:Separate of data based on County Montgomery Started
+INFO:root:2021-01-24 20:44:02.939663:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.943650:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.943650:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.943650:source_cnt:329
+INFO:root:2021-01-24 20:44:02.943650:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.943650:Balancing Successful
+INFO:root:2021-01-24 20:44:02.971569:Separate of data based on County Nassau Started
+INFO:root:2021-01-24 20:44:02.971569:SQLite Load Started
+INFO:root:2021-01-24 20:44:02.976190:SQLite Load Finished
+INFO:root:2021-01-24 20:44:02.976190:Balancing Process Started
+INFO:root:2021-01-24 20:44:02.976190:source_cnt:329
+INFO:root:2021-01-24 20:44:02.976190:Target_Cnt:329
+INFO:root:2021-01-24 20:44:02.976190:Balancing Successful
+INFO:root:2021-01-24 20:44:03.007200:Separate of data based on County New York Started
+INFO:root:2021-01-24 20:44:03.007200:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.007200:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.007200:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.007200:source_cnt:329
+INFO:root:2021-01-24 20:44:03.007200:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.007200:Balancing Successful
+INFO:root:2021-01-24 20:44:03.039964:Separate of data based on County Niagara Started
+INFO:root:2021-01-24 20:44:03.039964:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.043932:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.043932:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.043932:source_cnt:329
+INFO:root:2021-01-24 20:44:03.043932:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.043932:Balancing Successful
+INFO:root:2021-01-24 20:44:03.073451:Separate of data based on County Oneida Started
+INFO:root:2021-01-24 20:44:03.073451:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.077662:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.077662:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.077662:source_cnt:329
+INFO:root:2021-01-24 20:44:03.077662:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.077662:Balancing Successful
+INFO:root:2021-01-24 20:44:03.102102:Separate of data based on County Onondaga Started
+INFO:root:2021-01-24 20:44:03.102102:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.106355:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.106355:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.106355:source_cnt:329
+INFO:root:2021-01-24 20:44:03.106355:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.106355:Balancing Successful
+INFO:root:2021-01-24 20:44:03.135007:Separate of data based on County Ontario Started
+INFO:root:2021-01-24 20:44:03.135007:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.135007:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.135007:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.135007:source_cnt:329
+INFO:root:2021-01-24 20:44:03.135007:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.135007:Balancing Successful
+INFO:root:2021-01-24 20:44:03.161973:Separate of data based on County Orange Started
+INFO:root:2021-01-24 20:44:03.161973:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.165970:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.165970:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.165970:source_cnt:329
+INFO:root:2021-01-24 20:44:03.165970:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.165970:Balancing Successful
+INFO:root:2021-01-24 20:44:03.188025:Separate of data based on County Orleans Started
+INFO:root:2021-01-24 20:44:03.188025:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.192023:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.192023:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.192023:source_cnt:329
+INFO:root:2021-01-24 20:44:03.192023:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.192023:Balancing Successful
+INFO:root:2021-01-24 20:44:03.219796:Separate of data based on County Oswego Started
+INFO:root:2021-01-24 20:44:03.219796:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.219796:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.219796:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.219796:source_cnt:329
+INFO:root:2021-01-24 20:44:03.219796:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.219796:Balancing Successful
+INFO:root:2021-01-24 20:44:03.247918:Separate of data based on County Otsego Started
+INFO:root:2021-01-24 20:44:03.247918:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.247918:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.247918:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.247918:source_cnt:329
+INFO:root:2021-01-24 20:44:03.247918:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.247918:Balancing Successful
+INFO:root:2021-01-24 20:44:03.275385:Separate of data based on County Putnam Started
+INFO:root:2021-01-24 20:44:03.275385:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.279860:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.279860:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.279860:source_cnt:329
+INFO:root:2021-01-24 20:44:03.279860:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.279860:Balancing Successful
+INFO:root:2021-01-24 20:44:03.306721:Separate of data based on County Queens Started
+INFO:root:2021-01-24 20:44:03.306721:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.311364:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.311364:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.311364:source_cnt:329
+INFO:root:2021-01-24 20:44:03.311364:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.311364:Balancing Successful
+INFO:root:2021-01-24 20:44:03.344441:Separate of data based on County Rensselaer Started
+INFO:root:2021-01-24 20:44:03.344441:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.344441:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.344441:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.344441:source_cnt:329
+INFO:root:2021-01-24 20:44:03.344441:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.344441:Balancing Successful
+INFO:root:2021-01-24 20:44:03.373505:Separate of data based on County Richmond Started
+INFO:root:2021-01-24 20:44:03.373505:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.378032:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.378032:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.378032:source_cnt:329
+INFO:root:2021-01-24 20:44:03.378032:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.378032:Balancing Successful
+INFO:root:2021-01-24 20:44:03.408609:Separate of data based on County Rockland Started
+INFO:root:2021-01-24 20:44:03.408609:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.408609:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.408609:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.408609:source_cnt:329
+INFO:root:2021-01-24 20:44:03.408609:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.408609:Balancing Successful
+INFO:root:2021-01-24 20:44:03.439482:Separate of data based on County Saratoga Started
+INFO:root:2021-01-24 20:44:03.439482:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.439482:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.439482:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.439482:source_cnt:329
+INFO:root:2021-01-24 20:44:03.439482:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.439482:Balancing Successful
+INFO:root:2021-01-24 20:44:03.466814:Separate of data based on County Schenectady Started
+INFO:root:2021-01-24 20:44:03.466814:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.470941:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.470941:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.470941:source_cnt:329
+INFO:root:2021-01-24 20:44:03.470941:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.470941:Balancing Successful
+INFO:root:2021-01-24 20:44:03.499212:Separate of data based on County Schoharie Started
+INFO:root:2021-01-24 20:44:03.499212:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.503528:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.503528:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.503528:source_cnt:329
+INFO:root:2021-01-24 20:44:03.503528:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.503528:Balancing Successful
+INFO:root:2021-01-24 20:44:03.536587:Separate of data based on County Schuyler Started
+INFO:root:2021-01-24 20:44:03.536587:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.536587:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.536587:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.536587:source_cnt:329
+INFO:root:2021-01-24 20:44:03.536587:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.536587:Balancing Successful
+INFO:root:2021-01-24 20:44:03.565278:Separate of data based on County Seneca Started
+INFO:root:2021-01-24 20:44:03.565278:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.565278:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.565278:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.565278:source_cnt:329
+INFO:root:2021-01-24 20:44:03.565278:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.565278:Balancing Successful
+INFO:root:2021-01-24 20:44:03.590081:Separate of data based on County St. Lawrence Started
+INFO:root:2021-01-24 20:44:03.590081:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.594082:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.594082:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.594082:source_cnt:329
+INFO:root:2021-01-24 20:44:03.594082:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.594082:Balancing Successful
+INFO:root:2021-01-24 20:44:03.625930:Separate of data based on County Steuben Started
+INFO:root:2021-01-24 20:44:03.625930:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.630577:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.630577:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.630577:source_cnt:329
+INFO:root:2021-01-24 20:44:03.630577:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.630577:Balancing Successful
+INFO:root:2021-01-24 20:44:03.659025:Separate of data based on County Suffolk Started
+INFO:root:2021-01-24 20:44:03.659025:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.662036:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.662036:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.662036:source_cnt:329
+INFO:root:2021-01-24 20:44:03.662036:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.662036:Balancing Successful
+INFO:root:2021-01-24 20:44:03.689153:Separate of data based on County Sullivan Started
+INFO:root:2021-01-24 20:44:03.689153:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.694182:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.694182:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.694182:source_cnt:329
+INFO:root:2021-01-24 20:44:03.694182:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.694182:Balancing Successful
+INFO:root:2021-01-24 20:44:03.722517:Separate of data based on County Tioga Started
+INFO:root:2021-01-24 20:44:03.722517:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.726574:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.726574:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.726574:source_cnt:329
+INFO:root:2021-01-24 20:44:03.726574:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.726574:Balancing Successful
+INFO:root:2021-01-24 20:44:03.755903:Separate of data based on County Tompkins Started
+INFO:root:2021-01-24 20:44:03.755903:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.759897:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.759897:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.759897:source_cnt:329
+INFO:root:2021-01-24 20:44:03.759897:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.759897:Balancing Successful
+INFO:root:2021-01-24 20:44:03.790168:Separate of data based on County Ulster Started
+INFO:root:2021-01-24 20:44:03.790168:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.795522:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.795522:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.795522:source_cnt:329
+INFO:root:2021-01-24 20:44:03.795522:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.795522:Balancing Successful
+INFO:root:2021-01-24 20:44:03.827507:Separate of data based on County Warren Started
+INFO:root:2021-01-24 20:44:03.827507:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.831502:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.831502:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.831502:source_cnt:329
+INFO:root:2021-01-24 20:44:03.831502:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.831502:Balancing Successful
+INFO:root:2021-01-24 20:44:03.859892:Separate of data based on County Washington Started
+INFO:root:2021-01-24 20:44:03.859892:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.859892:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.859892:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.859892:source_cnt:329
+INFO:root:2021-01-24 20:44:03.859892:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.859892:Balancing Successful
+INFO:root:2021-01-24 20:44:03.890298:Separate of data based on County Wayne Started
+INFO:root:2021-01-24 20:44:03.890298:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.894349:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.894349:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.894349:source_cnt:329
+INFO:root:2021-01-24 20:44:03.894349:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.894349:Balancing Successful
+INFO:root:2021-01-24 20:44:03.922791:Separate of data based on County Westchester Started
+INFO:root:2021-01-24 20:44:03.922791:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.922791:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.922791:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.922791:source_cnt:329
+INFO:root:2021-01-24 20:44:03.922791:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.922791:Balancing Successful
+INFO:root:2021-01-24 20:44:03.954981:Separate of data based on County Wyoming Started
+INFO:root:2021-01-24 20:44:03.954981:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.959034:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.959034:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.959034:source_cnt:329
+INFO:root:2021-01-24 20:44:03.959034:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.959034:Balancing Successful
+INFO:root:2021-01-24 20:44:03.991460:Separate of data based on County Yates Started
+INFO:root:2021-01-24 20:44:03.991460:SQLite Load Started
+INFO:root:2021-01-24 20:44:03.991460:SQLite Load Finished
+INFO:root:2021-01-24 20:44:03.991460:Balancing Process Started
+INFO:root:2021-01-24 20:44:03.991460:source_cnt:329
+INFO:root:2021-01-24 20:44:03.991460:Target_Cnt:329
+INFO:root:2021-01-24 20:44:03.991460:Balancing Successful
